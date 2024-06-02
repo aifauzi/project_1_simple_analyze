@@ -1,0 +1,5 @@
+The link below is the result of a Tableau dashboard I created.
+https://public.tableau.com/views/Dashboard_Summary/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
+
+And this link the dataset I used.
+https://www.kaggle.com/datasets/divu2001/coffee-shop-sales-analysis/data
