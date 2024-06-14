@@ -1,7 +1,7 @@
 # Coffee Shop Analysis
 ![Coffee Shop](fresh-coffee-coffee-shop.jpg)
 
-## Background Problem
+## Case Background
 In this first project, I pretended as a *Data Analyst* in the **Coffee Shop** business and I was asked to <u>analyze</u> (a simple analyze) the sales data of previous several months back. The analyst results will be used by the Head Store <u>to see the progress</u> of the business and <u>make decisions</u> to increase sales of the store. 
 
 ## Identification of Problem
